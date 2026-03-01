@@ -73,11 +73,11 @@ Started on February 28th, 2026 by C0m3b4ck.
 
 # Screenshots
 <h3>Windows 95</h3>
-<img title="Windows 95" alt="Image from Windows 95" src="https://github.com/C0m3b4ck/BookwormPascal/blob/main/screenshots/win95-2.png">
+<img title="Windows 95" alt="Image from Windows 95" src="https://github.com/C0m3b4ck/BookwormPascal/blob/main/screenshots/win95.png">
 <h3>Windows 98</h3>
 <img title="Windows 98" alt="Image from Windows 98" src="https://github.com/C0m3b4ck/BookwormPascal/blob/main/screenshots/win98.png">
 <h3>Windows 2000</h3>
-<img title="Windows 2000" alt="Image from Windows 2000" src="https://github.com/C0m3b4ck/BookwormPascal/blob/main/screenshots/win2000-2.png">
+<img title="Windows 2000" alt="Image from Windows 2000" src="https://github.com/C0m3b4ck/BookwormPascal/blob/main/screenshots/win2000.png">
 <h3>Windows XP</h3>
 <img title="Windows XP" alt="Image from Windows XP" src="https://github.com/C0m3b4ck/BookwormPascal/blob/main/screenshots/winXP.png">
 <h3>Windows 7</h3>
