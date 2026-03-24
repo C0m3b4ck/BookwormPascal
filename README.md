@@ -1,6 +1,7 @@
 <a href=https://github.com/C0m3b4ck/BookwormPascal/blob/main/README_PL.md>🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱POLSKA WERSJA🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱</a>
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/BookwormPascal/total)
 <br><b>🇪🇺🇪🇺🇪🇺Made in Europe🇪🇺🇪🇺🇪🇺</b>
+<img title="Icon" alt="The program logo" src="https://github.com/C0m3b4ck/BookwormPascal/blob/main/screenshots/logo1.png">
 # BookwormPascal
 Version of the library management program Bookworm but in Pascal.
 <br><b>For the still actively maintained Visual Basic 6 version, visit <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic> here.</a></b>
