@@ -9,9 +9,9 @@ Version of the library management program Bookworm but in Pascal.
 # Supported OSes
 <b>Supports all versions of Windows, from Windows 95 up to Windows 11:</b>
 
-    Windows 95 (requires dependencies from installer/portable)
+    Windows 95 (requires the use of FPC 2.6.4 or older, has its own separate version)
 
-    Windows NT 4.0 (requires dependencies from installer/portable)
+    Windows NT 4.0
 
     Windows 98 
 
@@ -42,7 +42,7 @@ Version of the library management program Bookworm but in Pascal.
 
     (probable future desktop OS from Microsoft)
 
-<br><b>Will require changing compilation target due to architecture differences (ARM instead of x86):</b>
+<br><b>Possible support via ARM compilation:</b>
 
     Windows CE (including versions 4, 5, 6, .NET 4.1, .NET 4.2, 7, 2013)
 
@@ -66,9 +66,10 @@ Version of the library management program Bookworm but in Pascal.
 * Past, present and future compatibility with Windows
 
 # Why?
-* Visual Basic 6 work very badly on Windows 95
-* VB6's native mode does not allow for catching errors (like Python's JIT), but Pascal catches 99% of errors during compilation
-* Pascal is more dev-friendly
+* Visual Basic 6 work very badly on Windows 95,
+* VB6 only compiles to x32, requiring WoW64 on modern Windows
+* VB6 is hard to debug (barely any debugging upon compilation). The native mode does not allow for catching errors (like Python's JIT), but Pascal catches 99% of errors during compilation
+* Pascal can be compiled and distributed without any dependencies
 
 # Author
 Started on February 28th, 2026 by C0m3b4ck.
