@@ -6,8 +6,30 @@
 Version of the library management program Bookworm but in Pascal.
 <br><b>For the still actively maintained Visual Basic 6 version, visit <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic> here.</a></b>
 <br><b>For the unsupported, broken Python version, visit <a href=https://github.com/C0m3b4ck/Bookworm> here.</b></a>
+
+# TO-DO pre-1.0
+<b>
+<br>* Every GUI needs to be finished, even if non-functional
+<br>* Hashing function used during registering and logging in
+<br>* Every form and tabsheet needs to clear all text fields upon being closed
+<br>* CRUD needs to be done - the program is dependent on databases after all, could also use .txt files for configs etc.
+</b>
+
+# TO-DO post-1.0
+<b>
+<br>* Adding encryption to databases (especially readers)
+<br>* Backup making
+<br>* P2P communication with local/remote devices for backups
+</b>
+
 # Supported OSes
-<b>Supports all versions of Windows, from Windows 95 up to Windows 11:</b>
+<br><b>Compiled versions: 
+<br>x32 NT (Windows 2000+ using FPC 3.0.0), 
+<br>x32 9x (Windows 95, 98 and Me using FPC 2.4.4), 
+<br>x64 (all x64 versions using FPC 3.0.0), 
+<br>ARM (FPC 2.4.4 and 3.0.0 for different CE versions)</b>
+
+<br><b>Supports all versions of Windows, from Windows 95 up to Windows 11:</b>
 
     Windows 95 (requires the use of FPC 2.6.4 or older, has its own separate version)
 
