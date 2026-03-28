@@ -27,6 +27,8 @@ Version of the library management program Bookworm but in Pascal.
 <br><b>Compiled versions: 
 <br>x32 NT (Windows 2000+ using FPC 3.0.0), 
 <br>x32 9x (Windows 95, 98 and Me using FPC 2.4.4), 
+<br>x32 Linux,
+<br>x64 Linux (Ubuntu as main focus),
 <br>x64 (all x64 versions using FPC 3.0.0), 
 <br>ARM (FPC 2.4.4 and 3.0.0 for different CE versions) (no sound due to uoslib incompatibility)
 <br>(possible) x16 (using FPC 3.0.0 set to i8086‑msdos) (no sound due to uoslib incompatibility)
