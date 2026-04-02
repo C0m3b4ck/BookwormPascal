@@ -9,7 +9,7 @@ Version of the library management program Bookworm but in Pascal.
 
 # TO-DO pre-1.0
 <b>
-<br>* Every GUI needs to be finished, even if non-functional
+<br>* Every GUI needs to be finished, even if non-functional - DONE April 2nd, 2026
 <br>* Every GUI's items need to resize with window (will probably implement using anchors)
 <br>* Hashing function used during registering and logging in
 <br>* Every form and tabsheet needs to clear all text fields upon being closed
