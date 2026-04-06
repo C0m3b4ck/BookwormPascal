@@ -7,6 +7,10 @@ Version of the library management program Bookworm but in Pascal.
 <br><b>For the still actively maintained Visual Basic 6 version, visit <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic> here.</a></b>
 <br><b>For the unsupported, broken Python version, visit <a href=https://github.com/C0m3b4ck/Bookworm> here.</b></a>
 
+# Author
+Started on February 28th, 2026 by C0m3b4ck.
+Inspiration from Marek Ryński, the author of Bibliotekarz .NET - https://bibliotekarz.net/
+
 # TO-DO pre-1.0
 <b>
 <br>* Every GUI needs to be finished, even if non-functional - DONE April 2nd, 2026
@@ -102,9 +106,6 @@ Version of the library management program Bookworm but in Pascal.
 * VB6 only compiles to x32, requiring WoW64 on modern Windows
 * VB6 is hard to debug (barely any debugging upon compilation). The native mode does not allow for catching errors (like Python's JIT), but Pascal catches 99% of errors during compilation
 * Pascal can be compiled and distributed without any dependencies
-
-# Author
-Started on February 28th, 2026 by C0m3b4ck.
 
 # Screenshots
 <h3>Windows 95</h3>
