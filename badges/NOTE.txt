@@ -1,0 +1,1 @@
+The badges are meant to represent compatibility. For this reason, no badges without the word "compatibility" or with the word "certified" have been used. This project is not endorsed nor certified by Microsoft.
