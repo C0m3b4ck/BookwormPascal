@@ -9,7 +9,7 @@ Version of the library management program Bookworm but in Pascal.
 
 # Author
 Started on February 28th, 2026 by C0m3b4ck.
-Inspiration from Marek Ryński, the author of Bibliotekarz .NET - https://bibliotekarz.net/
+<br>Inspiration from Marek Ryński, the author of Bibliotekarz .NET - https://bibliotekarz.net/
 
 # TO-DO pre-1.0
 <b>
