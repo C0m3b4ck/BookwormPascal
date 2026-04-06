@@ -58,7 +58,9 @@ Started on February 28th, 2026 by C0m3b4ck.
 <img src="badges/11.svg" alt="Windows 11" width="128" height="128" />
 
 </div>
-<br><b>Compiled versions: 
+<br>The badges are meant to represent compatibility. For this reason, no badges without the word "compatibility" or with the word "certified" have been used. This project is not endorsed nor certified by Microsoft.
+Downloaded from https://logos.fandom.com/wiki/Microsoft_Windows/Compatible
+<br><h2><b>Compiled versions:</h2> 
 <br>x32 NT (Windows 2000+ using FPC 3.0.0), 
 <br>x32 9x (Windows 95, 98 and Me using FPC 2.4.4), 
 <br>x86 Linux,
@@ -67,7 +69,7 @@ Started on February 28th, 2026 by C0m3b4ck.
 <br>ARM (FPC 2.4.4 and 3.0.0 for different CE versions) (no sound due to uoslib incompatibility)
 </b>
 
-<br><b>Supports all versions of Windows, from Windows 95 up to Windows 11:</b>
+<br><h2><b>Supports all versions of Windows, from Windows 95 up to Windows 11:</b></h2>
 
     Windows 95 (requires the use of FPC 2.6.4 or older, has its own separate version)
 
@@ -102,7 +104,7 @@ Started on February 28th, 2026 by C0m3b4ck.
 
     (probable future desktop OS from Microsoft)
 
-<br><b>Possible support via ARM compilation:</b>
+<br><b><h2>Possible support via ARM compilation:</h2></b>
 
     Windows CE (including versions 4, 5, 6, .NET 4.1, .NET 4.2, 7, 2013)
 
@@ -112,7 +114,7 @@ Started on February 28th, 2026 by C0m3b4ck.
 
     Windows Mobile
 
-<br><b>Will not be supported: </b></br>
+<br><b><h2>Will not be supported: </b></h2></br>
 
 * All Xbox OSes
 * Windows CE 1.0, 2.0 and 3.0 (requires DOS-like C compilation)
