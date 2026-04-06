@@ -87,6 +87,7 @@ Version of the library management program Bookworm but in Pascal.
 
 * All Xbox OSes
 * Windows CE 1.0, 2.0 and 3.0 (requires DOS-like C compilation)
+* MS-DOS and Windows versions older than Windows 95 (3.1, 1 etc.)
 
 
 # Principles
