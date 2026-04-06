@@ -14,7 +14,6 @@ Started on February 28th, 2026 by C0m3b4ck.
 # TO-DO pre-1.0
 <b>
 <br>* Every GUI needs to be finished, even if non-functional - DONE April 2nd, 2026
-<br>* Every GUI's items need to resize with window (will probably implement using anchors)
 <br>* Hashing function used during registering and logging in
 <br>* Every form and tabsheet needs to clear all text fields upon being closed
 <br>* CRUD needs to be done - the program is dependent on databases after all, could also use .txt files for configs etc.
@@ -25,11 +24,17 @@ Started on February 28th, 2026 by C0m3b4ck.
 <br>* Adding encryption to databases (especially readers)
 <br>* Backup making
 <br>* P2P communication with local/remote devices for backups
+<br>* Every GUI's items need to resize with window (will probably implement using anchors)
 </b>
 
 # Known Bugs
 <b>
 <br>* password does not auto-hide in login form
+</b>
+
+# 3rd party requirements
+<b>
+* sqlite32.dll (x32 Windows), sqlite64.dll (x64 Windows) - SQL interactions
 </b>
 
 # Supported OSes
