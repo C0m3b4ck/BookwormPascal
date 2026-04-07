@@ -58,7 +58,7 @@ Started on February 28th, 2026 by C0m3b4ck.
 <img src="badges/11.svg" alt="Windows 11" width="128" height="128" />
 
 </div>
-<br>The badges are meant to represent compatibility. For this reason, no badges without the word "compatibility" or with the word "certified" have been used. This project is not endorsed nor certified by Microsoft.
+<br>The badges are meant to represent compatibility. For this reason, no badges with the word "certified" have been used. This project is not endorsed nor certified by Microsoft.
 Downloaded from https://logos.fandom.com/wiki/Microsoft_Windows/Compatible
 <br><h2><b>Compiled versions:</h2> 
 <br>x32 NT (Windows 2000+ using FPC 3.0.0), 
