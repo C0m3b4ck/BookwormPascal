@@ -13,6 +13,7 @@ Started on February 28th, 2026 by C0m3b4ck.
 
 # TO-DO pre-1.0
 <b>
+<br>* Fix all critical bugs
 <br>* Every GUI needs to be finished, even if non-functional - DONE April 2nd, 2026
 <br>* Hashing function used during registering and logging in
 <br>* Every form and tabsheet needs to clear all text fields upon being closed
@@ -29,7 +30,7 @@ Started on February 28th, 2026 by C0m3b4ck.
 
 # Known Bugs
 <b>
-<br>* password does not auto-hide in login form
+<br>* password does not auto-hide in login form [CRITICAL]
 </b>
 
 # 3rd party requirements
