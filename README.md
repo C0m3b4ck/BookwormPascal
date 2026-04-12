@@ -7,17 +7,35 @@ Version of the library management program Bookworm but in Pascal.
 <br><b>For the still actively maintained Visual Basic 6 version, visit <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic> here.</a></b>
 <br><b>For the unsupported, broken Python version, visit <a href=https://github.com/C0m3b4ck/Bookworm> here.</b></a>
 
+# Help!!! Which one do I download????? 🤔🤔🤔
+<h3>Don't worry, I do make a lot of different builds and it's easy to get confused!</h3>
+<h2><br> <b>💼 Portable</b> - a single <i><u>compressed folder</u></i>, just download, extract and run <b><i>BookwormPascal.exe</i></b> </h2>
+<h2><br> <b>📦 Installer</b> - a single <i><u>.exe file</u></i>. When you run, it shows a menu, including installation location etc.</h2>
+<h1>Before downloading, check your architecture: </h1>
+<h2>x64_8-11_MODERN - supports Windows 8 x64, Windows 8.1 x64, Windows 10 x64, Windows 11 x64. If you do not know which Windows version you are using, use this build.</h2>
+<h2>x64_Linux - supports x64 versions of Linux (definitely Ubuntu and Debian)</h2>
+<h2>x32_Linux - supports x32 versions of Linux (definitely Ubuntu and Debian)</h2>
+<h2>x86_XP-Vista-7 - supports Windows XP x86, Windows Vista x86, Windows 7 x86.</h2>
+<h2>x64_XP-Vista-7 - supports Windows XP x64, Windows Vista x64, Windows 7 x64.</h2>
+<h2>x86_9x_attempt - supports Windows 98, Windows 95 is currently being attempted.</h2>
+<h2>ARM_CE-4-5-6 - supports Windows CE 4, 5 and 6 on ARM architecture.</h2>
+<h2>x96_CE-4-5-6 - supports Windows CE 4, 5 and 6 on x86 architecture.</h2>
+
+
 # Author
 Started on February 28th, 2026 by C0m3b4ck.
 <br>Inspiration from Marek Ryński, the author of Bibliotekarz .NET - https://bibliotekarz.net/
 
 # TO-DO pre-1.0
+
+<h2>Done: </h2>
+<br>* Every GUI needs to be finished, even if non-functional - <b>DONE April 2nd, 2026</b>
+<br>* CRUD needs to be done - the program is dependent on databases after all, could also use .txt files for configs etc. -<b> DONE April 7th, 2026</b>
+<br>* Hashing function used during registering and logging in - <b>DONE April 10th, 2026</b>
 <b>
-<br>* Fix all critical bugs
-<br>* Every GUI needs to be finished, even if non-functional - DONE April 2nd, 2026
-<br>* Hashing function used during registering and logging in
+<h2>To-do:</h2>
+<br>* Fix all critical bugs (currently: 1)
 <br>* Every form and tabsheet needs to clear all text fields upon being closed
-<br>* CRUD needs to be done - the program is dependent on databases after all, could also use .txt files for configs etc.
 </b>
 
 # TO-DO post-1.0
@@ -130,7 +148,7 @@ Downloaded from https://logos.fandom.com/wiki/Microsoft_Windows/Compatible
 * Past, present and future compatibility with Windows
 
 # Why?
-* Visual Basic 6 work very badly on Windows 95,
+* Visual Basic 6 works very badly on Windows 95,
 * VB6 only compiles to x32, requiring WoW64 on modern Windows
 * VB6 is hard to debug (barely any debugging upon compilation). The native mode does not allow for catching errors (like Python's JIT), but Pascal catches 99% of errors during compilation
 * Pascal can be compiled and distributed without any dependencies
