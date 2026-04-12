@@ -53,7 +53,7 @@ Started on February 28th, 2026 by C0m3b4ck.
 
 # 3rd party requirements
 <b>
-* sqlite32.dll (x32 Windows), sqlite64.dll (x64 Windows) - SQL interactions
+* self-built variations of sqlite3.dll (x86), sqlite3.dll (x64) and sqlite3.dll (ARM)
 </b>
 
 # Supported OSes
