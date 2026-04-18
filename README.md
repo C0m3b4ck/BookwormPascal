@@ -19,7 +19,7 @@ Version of the library management program Bookworm but in Pascal.
 <h2>x64_XP-Vista-7 - supports Windows XP x64, Windows Vista x64, Windows 7 x64.</h2>
 <h2>x86_9x_attempt - supports Windows 98, Windows 95 is currently being attempted.</h2>
 <h2>ARM_CE-4-5-6 - supports Windows CE 4, 5 and 6 on ARM architecture.</h2>
-<h2>x96_CE-4-5-6 - supports Windows CE 4, 5 and 6 on x86 architecture.</h2>
+<h2>x86_CE-4-5-6 - supports Windows CE 4, 5 and 6 on x86 architecture.</h2>
 
 
 # Author
@@ -32,10 +32,12 @@ Started on February 28th, 2026 by C0m3b4ck.
 <br>* Every GUI needs to be finished, even if non-functional - <b>DONE April 2nd, 2026</b>
 <br>* CRUD needs to be done - the program is dependent on databases after all, could also use .txt files for configs etc. -<b> DONE April 7th, 2026</b>
 <br>* Hashing function used during registering and logging in - <b>DONE April 10th, 2026</b>
+<br>* Every form and tabsheet needs to clear all text fields upon being closed - <b>DONE April 18th, 2026</b>
 <b>
 <h2>To-do:</h2>
+<br>* Make Add/Remove/Edit TabSheets functional for books, readers and loans
 <br>* Fix all critical bugs (currently: 1)
-<br>* Every form and tabsheet needs to clear all text fields upon being closed
+
 </b>
 
 # TO-DO post-1.0
@@ -53,7 +55,7 @@ Started on February 28th, 2026 by C0m3b4ck.
 
 # 3rd party requirements
 <b>
-* self-built variations of sqlite3.dll (x86), sqlite3.dll (x64) and sqlite3.dll (ARM)
+* self-built variations of sqlite3 3.35.4 for different OSes and architectures
 </b>
 
 # Supported OSes
@@ -79,14 +81,15 @@ Started on February 28th, 2026 by C0m3b4ck.
 </div>
 <br>The badges are meant to represent compatibility. For this reason, no badges with the word "certified" have been used. This project is not endorsed nor certified by Microsoft.
 Downloaded from https://logos.fandom.com/wiki/Microsoft_Windows/Compatible
-<br><h2><b>Compiled versions:</h2> 
-<br>x32 NT (Windows 2000+ using FPC 3.0.0), 
-<br>x32 9x (Windows 95, 98 and Me using FPC 2.4.4), 
-<br>x86 Linux,
-<br>x64 Linux (Ubuntu as main focus),
-<br>x64 NT (Windows XP+ for x64)
-<br>ARM (FPC 2.4.4 and 3.0.0 for different CE versions) (no sound due to uoslib incompatibility)
-</b>
+<br><h2><b>Compiled versions:</h2></b>
+<br><b>x64_Linux </b>- supports x64 versions of Linux (definitely Ubuntu and Debian)
+<br><b>x32_Linux </b>- supports x32 versions of Linux (definitely Ubuntu and Debian)
+<br><b>x86_XP-Vista-7 </b>- supports Windows XP x86, Windows Vista x86, Windows 7 x86.
+<br><b>x64_XP-Vista-7 </b>- supports Windows XP x64, Windows Vista x64, Windows 7 x64.
+<br><b>x86_9x_attempt </b>- supports Windows 98, Windows 95 is currently being attempted.
+<br><b>ARM_CE-4-5-6 </b>- supports Windows CE 4, 5 and 6 on ARM architecture.
+<br><b>x86_CE-4-5-6 </b>- supports Windows CE 4, 5 and 6 on x86 architecture.
+
 
 <br><h2><b>Supports all versions of Windows, from Windows 95 up to Windows 11:</b></h2>
 
@@ -143,7 +146,7 @@ Downloaded from https://logos.fandom.com/wiki/Microsoft_Windows/Compatible
 # Principles
 * Maximum speed, ease-of-use and efficiency
 * Privacy - encrypted databases for users without correct credentials
-* Easy installation and portability - no dependencies need to be manually installed by user
+* Easy installation and portability - user does not need to modify ANYTHING with their system, all is managed by the installer
 * Overall user convenience and ease of use, yet advanced management for admins and superadmins
 * Past, present and future compatibility with Windows
 
@@ -151,7 +154,7 @@ Downloaded from https://logos.fandom.com/wiki/Microsoft_Windows/Compatible
 * Visual Basic 6 works very badly on Windows 95,
 * VB6 only compiles to x32, requiring WoW64 on modern Windows
 * VB6 is hard to debug (barely any debugging upon compilation). The native mode does not allow for catching errors (like Python's JIT), but Pascal catches 99% of errors during compilation
-* Pascal can be compiled and distributed without any dependencies
+* Pascal can be compiled and distributed without any Pascal-related dependencies (VB6 requires its own .dll and other library files)
 
 # Screenshots
 <h3>Windows 95</h3>
