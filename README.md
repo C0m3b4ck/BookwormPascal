@@ -56,6 +56,7 @@ Started on February 28th, 2026 by C0m3b4ck.
 # 3rd party requirements
 <b>
 * self-built variations of sqlite3 3.35.4 for different OSes and architectures
+* DCPCrypt 2.0.4.2 - is imported into source project, but does not require separate binary (gets embedded into app executable during FPC compilation)
 </b>
 
 # Supported OSes
