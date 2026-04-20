@@ -36,7 +36,7 @@ Started on February 28th, 2026 by C0m3b4ck.
 <b>
 <h2>To-do:</h2>
 <br>* Make Add/Remove/Edit TabSheets functional for books, readers and loans
-<br>* Fix all critical bugs (currently: 1)
+<br>* Fix all critical bugs (currently: 2)
 
 </b>
 
@@ -51,6 +51,8 @@ Started on February 28th, 2026 by C0m3b4ck.
 # Known Bugs
 <b>
 <br>* password does not auto-hide in login form [CRITICAL]
+<br>* cbo not populated in "Add Users" [CRITICAL]
+<br>* database_selection not switching to "Add Databases" when no other DBs except users.db are found [CONVENIENCE]
 </b>
 
 # 3rd party requirements
