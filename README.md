@@ -64,22 +64,7 @@ Started on February 28th, 2026 by C0m3b4ck.
 # Supported OSes
 <div align="center">
 
-<img src="badges/nt3.svg" alt="Windows NT 3.1" width="128" />
-<img src="badges/95.svg" alt="Windows 95" width="128" />
-<img src="badges/98.webp" alt="Windows 98" width="128" />
-<img src="badges/me.svg" alt="Windows ME" width="128" />
-<img src="badges/nt4.svg" alt="Windows NT 4.0" width="128" />
-<img src="badges/2000professional.svg" alt="Windows 2000 Professional" width="128" />
-<img src="badges/2000server.svg" alt="Windows 2000 Server" width="128" />
-<img src="badges/xp.svg" alt="Windows XP" width="128" />
-<img src="badges/vista.svg" alt="Windows Vista" width="128" />
-<img src="badges/server2012.svg" alt="Windows Server 2012" width="128" />
-<img src="badges/rt.svg" alt="Windows RT" width="128" />
-<img src="badges/mobile.svg" alt="Windows Mobile" width="128" />
-<img src="badges/7.svg" alt="Windows 7" width="128" />
-<img src="badges/8.svg" alt="Windows 8" width="128" />
-<img src="badges/10.svg" alt="Windows 10" width="128" />
-<img src="badges/11.svg" alt="Windows 11" width="128" />
+<img src="badges/nt3.svg" alt="Windows NT 3.1" width="128" /><img src="badges/95.svg" alt="Windows 95" width="128" /><img src="badges/98.webp" alt="Windows 98" width="128" /><img src="badges/me.svg" alt="Windows ME" width="128" /><img src="badges/nt4.svg" alt="Windows NT 4.0" width="128" /><img src="badges/2000professional.svg" alt="Windows 2000 Professional" width="128" /><img src="badges/2000server.svg" alt="Windows 2000 Server" width="128" /><img src="badges/xp.svg" alt="Windows XP" width="128" /><img src="badges/vista.svg" alt="Windows Vista" width="128" /><img src="badges/server2012.svg" alt="Windows Server 2012" width="128" /><img src="badges/rt.svg" alt="Windows RT" width="128" /><img src="badges/mobile.svg" alt="Windows Mobile" width="128" /><img src="badges/7.svg" alt="Windows 7" width="128" /><img src="badges/8.svg" alt="Windows 8" width="128" /><img src="badges/10.svg" alt="Windows 10" width="128" /><img src="badges/11.svg" alt="Windows 11" width="128" />
 
 </div>
 <br>The badges are meant to represent compatibility. For this reason, no badges with the word "certified" have been used. This project is not endorsed nor certified by Microsoft.
